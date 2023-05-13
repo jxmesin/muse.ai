@@ -1,4 +1,4 @@
-# muse.ai
+# muse.ai 🎵
 
 ## Description
 AI model that helps any user who wants to learn how to play anything from guitar, to piano, to even the cello, how to become their own muse.
