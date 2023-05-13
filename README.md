@@ -12,7 +12,7 @@ Having Muse as your teacher will be like if you're in your own one-on-one music 
 ## User Story
 As A person who wants to learn music \
 I WANT to be able to learn any song I want with the benefits of having in-person lessons without the constraint of money \
-SO THAT I can create amazing music \
+SO THAT I can create amazing music 
 
 ## Acceptance Criteria
 
