@@ -1,7 +1,7 @@
 # muse.ai 🎵
 
 ## Description
-AI model that helps any user who wants to learn how to play anything from guitar, to piano, to even the cello, how to become their own muse.
+AI powered learning app that helps any user who wants to learn how to play anything from guitar, to piano, to even the cello, how to become their own muse.
 
 muse.ai will be able to generate chords from any song that you play it and directly teach them to you with the help of Muse. 
 
