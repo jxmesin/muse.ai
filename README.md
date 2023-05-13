@@ -15,11 +15,5 @@ I WANT to be able to learn any song I want with the benefits of having in-person
 SO THAT I can create amazing music \
 
 ## Acceptance Criteria
-GIVEN a user achieves their personal goal using muse.ai \
-WHEN I \
-THEN I \
-WHEN I \ 
-THEN I \
-WHEN I \
-THEN I \
+
 
