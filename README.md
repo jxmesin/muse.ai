@@ -1,4 +1,4 @@
-# muse.ai : music made easy
+# muse.ai
 
 ## Description
 Learning how to play an instrument can be difficult, especially on your own. Having the guidance of another person usually means a higher chance of success of achieving your goals. But these services could be incredibly costly. 
