@@ -8,7 +8,6 @@ Welcome to muse.ai
 An AI powered learning app that aims to help users learn and perfect the instrument of their dreams.
 
 Are you ready to become your own muse?
-![Group 12](https://github.com/jxmesin/muse.ai/assets/112153725/b3864434-15a5-4b89-a229-e14159b908ae)
 
 ## Table of Contents
 - [Features](#features)
